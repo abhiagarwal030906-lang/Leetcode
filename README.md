@@ -16,4 +16,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [2798-number-of-employees-who-met-the-target](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
