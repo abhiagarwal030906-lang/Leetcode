@@ -24,9 +24,11 @@
 | ------- |
 | [0258-add-digits](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0682-baseball-game) |
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
