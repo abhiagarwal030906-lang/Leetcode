@@ -12,6 +12,7 @@
 | [2652-sum-multiples](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -31,6 +32,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
