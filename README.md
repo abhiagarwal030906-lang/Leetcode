@@ -28,6 +28,7 @@
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
