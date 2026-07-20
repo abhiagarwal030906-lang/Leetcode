@@ -25,6 +25,7 @@
 | [0258-add-digits](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0682-baseball-game) |
+| [2974-minimum-number-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2974-minimum-number-game) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -75,4 +78,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0682-baseball-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
