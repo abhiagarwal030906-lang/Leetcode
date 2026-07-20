@@ -40,6 +40,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3019-number-of-changing-keys](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
