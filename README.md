@@ -33,6 +33,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1550-three-consecutive-odds](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2974-minimum-number-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3024-type-of-triangle) |
 ## Two Pointers
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1331-rank-transform-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
