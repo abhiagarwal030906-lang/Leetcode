@@ -34,6 +34,7 @@
 | [1550-three-consecutive-odds](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2974-minimum-number-game) |
@@ -46,6 +47,7 @@
 | [0657-robot-return-to-origin](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Sorting
 |  |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
 |  |
 | ------- |
