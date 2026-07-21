@@ -43,6 +43,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3024-type-of-triangle) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/2974-minimum-number-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiagarwal030906-lang/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
